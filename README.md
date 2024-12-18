@@ -6,5 +6,5 @@ I had done this project to classify images by using CNN model and pre trained mo
 ## How to run the code
 
 
-##Ack
+## Ack
 
